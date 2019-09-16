@@ -39,6 +39,12 @@ a {
 
 .jumbotron {
 	text-align: center;
+	
+	background-image: asset-url('jumbotron.jpg');
+        
+    background-size: cover;
+        
+    height: 550px;
 }
 
 /* Navbar and navigation styles */
